@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorighms
+# Data-Structures-and-Algorithms
 
 ## 一千道
 
